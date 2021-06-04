@@ -1,0 +1,4 @@
+collide		sfx/31624__Srehpog__light_crate_smash3.wav
+Shoot		sfx/Arrow_Shoot.wav
+Hit		sfx/Arrow_Hit.wav
+Pull		sfx/Arrow_Pull.wav

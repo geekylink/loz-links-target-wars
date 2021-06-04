@@ -1,0 +1,9 @@
+Ground 		textures/Ground.png 		1
+Target 		textures/Target.png 		0
+Crosshairs 	textures/Crosshairs.png		0
+Crosshairs2 	textures/Crosshairs2.png	0
+Sky 		textures/Sky.PNG		1
+Wall		textures/Wall.png		1
+CRATE.PNG	textures/crate_light.png	0
+Title		textures/title.png		0
+RealCrosshairs	textures/RealCrosshairs.png	0
