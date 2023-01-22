@@ -9,5 +9,5 @@ You have sixty-seconds per round. Every second that goes by you lose a point. Ev
 
 Youtube Video: https://www.youtube.com/watch?v=k6D3rDN3Rg0
 
-![Title Screen](https://raw.githubusercontent.com/geekylink/loz-links-target-wars/main/screenshots/Title Screen.png)
-![Gamplay](https://raw.githubusercontent.com/geekylink/loz-links-target-wars/main/screenshots/Gameplay.png)
+![Title Screen](https://raw.githubusercontent.com/geekylink/loz-links-target-wars/main/screenshots/TitleScreen.png)
+![Gamplay](https://raw.githubusercontent.com/geekylink/loz-links-target-wars/main/screenshots/Gameplay1.png)
